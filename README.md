@@ -23,6 +23,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
 ---
 
 ![THIS IS HOW YOU CAN MAKE THIS README FILE :)](C:\Users\pc\Desktop\Kodluyoruz README.bmp)
